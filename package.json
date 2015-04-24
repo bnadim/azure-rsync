@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "author": "Lineberty",
   "bin": {
-    "swagger-static": "./main.js"
+    "azure-rsync": "./main.js"
   },
   "repository": {
     "type": "git",
