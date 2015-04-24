@@ -1,0 +1,21 @@
+{
+  "name": "azure-rsync",
+  "version": "0.0.1",
+  "author": "Lineberty",
+  "bin": {
+    "swagger-static": "./main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lineberty/azure-rsync.git"
+  },
+  "dependencies": {
+    "async": "0.9.0",
+    "azure-storage": "0.4.3",
+    "commander": "2.8.0",
+    "glob": "5.0.5",
+    "lodash": "3.7.0"
+  },
+  "main": "./main.js",
+  "license": "MIT"
+}
