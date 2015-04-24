@@ -1,6 +1,6 @@
 {
   "name": "azure-rsync",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Lineberty",
   "bin": {
     "azure-rsync": "./main.js"
